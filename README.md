@@ -60,3 +60,4 @@ Dubna, Russia September 2014 \- July 2016 \
 **LINKS**  
  - [LinkedIn](https://www.linkedin.com/in/ruslan-krasikov-190499166/) 
  - [Itch.io](https://shidonski.itch.io/)
+ - [GitHub](https://github.com/ShidoArima)
