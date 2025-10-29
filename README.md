@@ -1,17 +1,17 @@
 ## **Ruslan Krasikov**
 Senior Unity Developer
 
-**ABOUT** 
+**ABOUT** \
 I am a generalist Unity developer with more than ten years of professional experience. I feel comfortable working on prototypes, developing production-ready features, and supporting live projects. I am knowledgeable in optimization and am able to effectively self-manage independent projects as well as collaborate as part of a production team.
 
-**EXPERIENCE**
-**Solan Games** — *Senior Unity Developer* 
-New York, NY, United States Feb 2025 \- PRESENT 
+**EXPERIENCE** \
+**Solan Games** — *Senior Unity Developer* \
+New York, NY, United States Feb 2025 \- PRESENT \
 Unannounced mobile game. Main responsibilities include delivering new features for the mobile game, optimization, and refactoring of current game tech.
 Main features include level navigation system, inventory rework, enemy targeting, ability system, and UI rework. Stack: Unity, PlayFab, Firebase.
 
 **Ten Square Games** — *Senior Unity Developer* \
-Wroclaw, Poland July 2021 \- July 2024 
+Wroclaw, Poland July 2021 \- July 2024 \
 Mobile game Fishing Clash. Main responsibilities included feature development; optimizing memory usage and performance, game systems, and UI; and asset management. Additional responsibilities included supervising architectural changes of core systems and the continuous integration of those changes. I also acted as technical support for artists.
 
 **KamaGames Studio** — *Unity Developer* \
@@ -26,15 +26,16 @@ Security system simulation project with a wide-scale map. Main responsibilities 
 Dubna, Russia September 2015 \- September  2016 \
 C# backend developer for electronic document processing services. with the addition of AngularJS and OpenText for front-end purposes.
 
- **EDUCATION** 
+ **EDUCATION** \
 **International University "Dubna"** — *Master’s Degree* \
 Dubna, Russia September 2014 \- July 2016 \
 **System Analysis And Management** 
 
-**International University "Dubna"** — *Bachelor's degree* Dubna, Russia September 2010 \- June 2014 \
+**International University "Dubna"** — *Bachelor's degree* \
+Dubna, Russia September 2010 \- June 2014 \
 **Informatics and Computer Engineering**
 
-**SKILLS**  
+**SKILLS** 
  - Unity development 
  - C\# programming 
  - Performance optimization 
